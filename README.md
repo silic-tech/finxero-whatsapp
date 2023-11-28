@@ -1,2 +1,2 @@
-# finxero-whatsapp
-Web Hosting for FinXero_FX whatsapp
+# finxero_fx
+Web Hosting for FinXero_FX
